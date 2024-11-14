@@ -46,7 +46,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Please reach out if you have any questions or would like to discuss potential opportunities!
 
 - **Email**: [victor.parcigneau@gmail.com](mailto:victor.parcigneau@gmail.com)
-- **LinkedIn**: [My LinkedIn Profile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/victor-parcigneau-7932a8176/))
+- **LinkedIn**: [Victor Parcigneau's LinkedIn Profile](https://www.linkedin.com/in/victor-parcigneau-7932a8176/)
 ```
 
 This README file gives a clear view of the repository contents, installation instructions, technologies used, and contact information. Let me know if you'd like to add specific project examples or additional features!
